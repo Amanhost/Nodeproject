@@ -1,0 +1,28 @@
+Node.js
+About this documentation
+Usage and example
+Assertion testing
+Asynchronous context tracking
+Async hooks
+Buffer
+C++ addons
+C/C++ addons with Node-API
+C++ embedder API
+Child processes
+Cluster
+Command-line options
+Console
+Corepack
+Crypto
+Debugger
+Deprecated APIs
+Diagnostics Channel
+DNS
+Domain
+Errors
+Events
+File system
+Globals
+HTTP
+HTTP/2
+HTTPS call to fs.ftruncate() or filehandle.truncate() can be used to reset the file contents.
